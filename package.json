@@ -1,24 +1,24 @@
 {
-  "name": "lowbot-starter-ecommerce",
+  "name": "mindstack-starter-ecommerce",
   "version": "1.0.0",
-  "description": "Lowbot starter optimised for ecommerce",
+  "description": "Mind Stack starter optimised for ecommerce",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Truemedia/lowbot-starter-ecommerce.git"
+    "url": "git+https://github.com/Truemedia/mindstack-starter-ecommerce.git"
   },
   "keywords": [
-    "lowbot",
+    "mindstack",
     "starter",
     "ecommerce"
   ],
   "author": "Wade Penistone",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Truemedia/lowbot-starter-ecommerce/issues"
+    "url": "https://github.com/Truemedia/mindstack-starter-ecommerce/issues"
   },
-  "homepage": "https://github.com/Truemedia/lowbot-starter-ecommerce#readme"
+  "homepage": "https://github.com/Truemedia/mindstack-starter-ecommerce#readme"
 }
